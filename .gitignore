@@ -1,0 +1,42 @@
+# Arquivos e diretórios específicos do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+__env__/
+
+media/
+_media/
+
+# Arquivos do ambiente
+.env
+
+# Diretório de configurações locais
+local_settings.py
+
+# Arquivos de log
+*.log
+
+# Diretório de mídia
+media/
+
+# Arquivos de banco de dados SQLite
+*.sqlite3
+
+# Arquivos de cache Django
+__pycache__/
+*.cache
+
+# Arquivos de backup
+*.bak
+*.swp
+*~
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
